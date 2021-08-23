@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
         String name = "Janna";
         System.out.println("Hello "+name);
+        System.out.println("Good day");
     }
 }
