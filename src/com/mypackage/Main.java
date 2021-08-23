@@ -6,8 +6,7 @@ public class Main {
 	// write your code here
         String name = "Janna";
         System.out.println("Hello "+name);
-        System.out.println("Have a good day!");
-	Greeting msg = new Greeting();
-	msg.greet();
+	    Greeting msg = new Greeting();
+	    msg.greet();
     }
 }
