@@ -4,6 +4,7 @@ public class Greeting {
     public void greet(){
         System.out.println("You look beautiful");
         System.out.println("Hi...Have a nice day");
+        System.out.println("Greetings !! Have a nice day");
 
     }
 }
